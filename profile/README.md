@@ -1,10 +1,10 @@
-# LibreScoot
+# Librescoot
 
 Open-source software platform for the unu Scooter Pro electric scooter
 
 ## About
 
-LibreScoot is a microservices-based software platform designed specifically for the unu Scooter Pro electric scooter. It provides a comprehensive system for vehicle control, user interface, battery management, and over-the-air updates through Redis-based communication between specialized services.
+Librescoot is a microservices-based software platform designed specifically for the unu Scooter Pro electric scooter. It provides a comprehensive system for vehicle control, user interface, battery management, and over-the-air updates through Redis-based communication between specialized services.
 
 ### Key Components
 
@@ -27,11 +27,9 @@ Designed for the unu Scooter Pro hardware architecture:
 
 Uses Yocto Project for embedded Linux image creation with nightly automated builds producing .mender artifacts for OTA deployment.
 
-**Note**: This is a reverse-engineered platform based on unu Scooter Pro hardware. Experimental builds are available but not recommended for real hardware deployment.
-
 ## Links
 
-- 🌐 [Project Website](https://librescoot.github.io)
+- 🌐 [Project Website](https://librescoot.org)
 - 📦 [Main Repository](https://github.com/librescoot/librescoot)
 - 🚀 [Releases](https://github.com/librescoot/librescoot/releases)
 - 📋 [Issues](https://github.com/librescoot/librescoot/issues)
